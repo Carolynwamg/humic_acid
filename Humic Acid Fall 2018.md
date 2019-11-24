@@ -4,7 +4,7 @@
 
 
 ## Abstract
-The Fall 2018 Humic Acid Team will focus on testing the effluent humic acid concentration changes as coagulant dosage increases for influent humic acid at 5mg/L, 10mg/L and 15mg/L trials. The new AccuView spectrophotometer will be used to measure the flow absorbance and corresponding species concentrations will be calculated from recorded absorbances with Beer's Law. The team expects to develop better understanding of humic acid concentration changes through the overall experimental system and how humic acid particles interact with clay particles inside the sedimentation model. This research will help AguaClara gain more knowledge of how Natural Organic Matter (NOM) interacts with coagulant in water.
+The Fall 2018 Humic acid Team will focus on testing the effluent humic acid concentration changes as coagulant dosage increases for influent humic acid at 5mg/L, 10mg/L and 15mg/L trials. The new AccuView spectrophotometer will be used to measure the flow absorbance and corresponding species concentrations will be calculated from recorded absorbances with Beer's Law. The team expects to develop better understanding of humic acid concentration changes through the overall experimental system and how humic acid particles interact with clay particles inside the sedimentation model. This research will help AguaClara gain more knowledge of how Natural Organic Matter (NOM) interacts with coagulant in water.
 
 
 ## Introduction
